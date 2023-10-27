@@ -1,4 +1,4 @@
-package net.bcf.bcfantasy.common.medieval;
+package net.bcf.bcfantasy.init.medieval;
 
 import net.minecraft.item.Items;
 

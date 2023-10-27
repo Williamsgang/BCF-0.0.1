@@ -1,4 +1,4 @@
-package net.bcf.bcfantasy.common.modern;
+package net.bcf.bcfantasy.init.modern;
 
 import net.minecraft.item.Items;
 
