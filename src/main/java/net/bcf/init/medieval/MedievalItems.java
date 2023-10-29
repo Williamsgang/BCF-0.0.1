@@ -1,6 +1,6 @@
-package net.bcf.bcfantasy.init.medieval;
+package net.bcf.init.medieval;
 
-import net.bcf.bcfantasy.core.BullCapFantasy;
+import net.bcf.core.BullCapFantasy;
 import net.minecraft.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;

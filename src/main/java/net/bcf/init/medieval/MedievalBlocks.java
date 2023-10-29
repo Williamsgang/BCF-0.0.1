@@ -1,6 +1,6 @@
-package net.bcf.bcfantasy.init.medieval;
+package net.bcf.init.medieval;
 
-import net.bcf.bcfantasy.core.BullCapFantasy;
+import net.bcf.core.BullCapFantasy;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
 import net.minecraft.item.BlockItem;
@@ -13,7 +13,7 @@ import net.minecraftforge.registries.ForgeRegistries;
 import java.util.function.Supplier;
 
 public class MedievalBlocks extends Blocks {
-    public static final DeferredRegister<Block> MEDIEVAL_BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, BullCapFantasy.MOD_ID);
+    public static final DeferredRegister<Block> MEDIEVAL_BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, BullCapFantasy);
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {
         RegistryObject<T> toReturn = MEDIEVAL_BLOCKS.register(name, block);

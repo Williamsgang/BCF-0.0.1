@@ -1,5 +1,9 @@
-package net.bcf.bcfantasy.core;
+package net.bcf.core;
 
+import net.bcf.init.medieval.MedievalBlocks;
+import net.bcf.init.medieval.MedievalItems;
+import net.bcf.init.modern.ModernBlocks;
+import net.bcf.init.modern.ModernItems;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -23,6 +27,14 @@ public class BullCapFantasy {
     private static final Logger LOGGER = LogManager.getLogger();
 
     public BullCapFantasy() {
+
+        // Registering Medieval files
+        MedievalItems.register(modEventBus);
+        MedievalBlocks.register(modEventBus);
+
+        // Registering Modern files
+        ModernItems.register(modEventBus);
+        ModernBlocks.register(modEventBus);
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);

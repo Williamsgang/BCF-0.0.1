@@ -1,6 +1,6 @@
-package net.bcf.bcfantasy.init.modern;
+package net.bcf.init.modern;
 
-import net.bcf.bcfantasy.core.BullCapFantasy;
+import net.bcf.core.BullCapFantasy;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
 import net.minecraft.item.BlockItem;
