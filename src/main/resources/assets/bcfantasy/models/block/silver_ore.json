@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bcfantasy:block/silver_ore"
+  }
+}

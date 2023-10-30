@@ -4,7 +4,7 @@ import net.bcf.api.modern.guntypes.LightMachineGuns;
 
 public class LewisGun extends LightMachineGuns {
 
-    public LewisGun(Builder builder) {
-        super(builder);
+    public LewisGun(Properties pProperties) {
+        super(pProperties);
     }
 }
