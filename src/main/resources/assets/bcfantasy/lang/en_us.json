@@ -1,0 +1,138 @@
+{
+  "itemGroup.modern_item_group": "Modern Items",
+  "itemGroup.medieval_armor_item_group": "Medieval Armor",
+  "itemGroup.medieval_metals_item_group": "Medieval Metals and Precious Stones",
+  "itemGroup.medieval_weapons_item_group": "Medieval Weapons",
+  "itemGroup.medieval_materials_item_group": "Medieval Materials",
+  "itemGroup.medieval_blades_item_group": "Medieval Blades",
+  "itemGroup.medieval_tools_item_group": "Medieval Tools",
+
+  "block.bcfantasy.copper_ore": "Copper Ore",
+  "block.bcfantasy.mithril_ore": "Mithril Ore",
+  "block.bcfantasy.silver_ore": "Silver Ore",
+  "block.bcfantasy.bronze_ore": "Bronze Ore",
+
+  "item.bcfantasy.copper_ingot": "Copper Ingot",
+  "item.bcfantasy.mithril_ingot": "Mithril Ingot",
+  "item.bcfantasy.silver_ingot": "Silver Ingot",
+  "item.bcfantasy.steel_ingot": "Steel Ingot",
+  "item.bcfantasy.bronze_ingot": "Bronze Ingot",
+  "item.bcfantasy.obsidian_fragment": "Obsidian Fragment",
+
+  "item.bcfantasy.wooden_knife_blade": "Wooden Knife Blade",
+  "item.bcfantasy.wooden_sword_blade": "Wooden Sword Blade",
+  "item.bcfantasy.wooden_axe_blade": "Wooden Axe Blade",
+  "item.bcfantasy.wooden_longsword_blade": "Wooden Longsword Blade",
+
+  "item.bcfantasy.stone_knife_blade": "Stone Knife Blade",
+  "item.bcfantasy.stone_sword_blade": "Stone Sword Blade",
+  "item.bcfantasy.stone_axe_blade": "Stone Axe Blade",
+  "item.bcfantasy.stone_longsword_blade": "Stone Longsword Blade",
+
+  "item.bcfantasy.iron_knife_blade": "Iron Knife Blade",
+  "item.bcfantasy.iron_sword_blade": "Iron Sword Blade",
+  "item.bcfantasy.iron_axe_blade": "Iron Axe Blade",
+  "item.bcfantasy.iron_longsword_blade": "Iron Longsword Blade",
+
+  "item.bcfantasy.golden_knife_blade": "Golden Knife Blade",
+  "item.bcfantasy.golden_sword_blade": "Golden Sword Blade",
+  "item.bcfantasy.golden_axe_blade": "Golden Axe Blade",
+  "item.bcfantasy.golden_longsword_blade": "Golden Longsword Blade",
+
+  "item.bcfantasy.diamond_knife_blade": "Diamond Knife Blade",
+  "item.bcfantasy.diamond_sword_blade": "Diamond Sword Blade",
+  "item.bcfantasy.diamond_axe_blade": "Diamond Axe Blade",
+  "item.bcfantasy.diamond_longsword_blade": "Diamond Longsword Blade",
+
+  "item.bcfantasy.netherite_knife_blade": "Netherite Knife Blade",
+  "item.bcfantasy.netherite_sword_blade": "Netherite Sword Blade",
+  "item.bcfantasy.netherite_axe_blade": "Netherite Axe Blade",
+  "item.bcfantasy.netherite_longsword_blade": "Netherite Longsword Blade",
+
+  "item.bcfantasy.obsidian_knife_blade": "Obsidian Knife Blade",
+  "item.bcfantasy.obsidian_sword_blade": "Obsidian Sword Blade",
+  "item.bcfantasy.obsidian_axe_blade": "Obsidian Axe Blade",
+  "item.bcfantasy.obsidian_longsword_blade": "Obsidian Longsword Blade",
+
+  "item.bcfantasy.steel_knife_blade": "Steel Knife Blade",
+  "item.bcfantasy.steel_sword_blade": "Steel Sword Blade",
+  "item.bcfantasy.steel_axe_blade": "Steel Axe Blade",
+  "item.bcfantasy.steel_longsword_blade": "Steel Longsword Blade",
+
+  "item.bcfantasy.bronze_knife_blade": "Bronze Knife Blade",
+  "item.bcfantasy.bronze_sword_blade": "Bronze Sword Blade",
+  "item.bcfantasy.bronze_axe_blade": "Bronze Axe Blade",
+  "item.bcfantasy.bronze_longsword_blade": "Bronze Longsword Blade",
+
+  "item.bcfantasy.mithril_knife_blade": "Mithril Knife Blade",
+  "item.bcfantasy.mithril_sword_blade": "Mithril Sword Blade",
+  "item.bcfantasy.mithril_axe_blade": "Mithril Axe Blade",
+  "item.bcfantasy.mithril_longsword_blade": "Mithril Longsword Blade",
+
+  "item.bcfantasy.silver_knife_blade": "Silver Knife Blade",
+  "item.bcfantasy.silver_sword_blade": "Silver Sword Blade",
+  "item.bcfantasy.silver_axe_blade": "Silver Axe Blade",
+  "item.bcfantasy.silver_longsword_blade": "Silver Longsword Blade",
+
+  "item.bcfantasy.wooden_knife": "Wooden Knife",
+  "item.bcfantasy.wooden_longsword": "Wooden Longsword",
+  "item.bcfantasy.wooden_battle_axe": "Wooden Battleaxe",
+
+  "item.bcfantasy.stone_knife": "Stone Knife",
+  "item.bcfantasy.stone_longsword": "Stone Longsword",
+  "item.bcfantasy.stone_battle_axe": "Stone Battleaxe",
+
+  "item.bcfantasy.iron_knife": "Iron Knife",
+  "item.bcfantasy.iron_longsword": "Iron Longsword",
+  "item.bcfantasy.iron_battle_axe": "Iron Battleaxe",
+
+  "item.bcfantasy.golden_knife": "Golden Knife",
+  "item.bcfantasy.golden_longsword": "Golden Longsword",
+  "item.bcfantasy.golden_battle_axe": "Golden Battleaxe",
+
+  "item.bcfantasy.diamond_knife": "Diamond Knife",
+  "item.bcfantasy.diamond_longsword": "Diamond Longsword",
+  "item.bcfantasy.diamond_battle_axe": "Diamond Battleaxe",
+
+  "item.bcfantasy.netherite_knife": "Netherite Knife",
+  "item.bcfantasy.netherite_longsword": "Netherite Longsword",
+  "item.bcfantasy.netherite_battle_axe": "Netherite Battleaxe",
+
+  "item.bcfantasy.obsidian_knife": "Obsidian Knife",
+  "item.bcfantasy.obsidian_sword": "Obsidian Sword",
+  "item.bcfantasy.obsidian_axe": "Obsidian Axe",
+  "item.bcfantasy.obsidian_longsword": "Obsidian Longsword",
+  "item.bcfantasy.obsidian_battle_axe": "Obsidian Battleaxe",
+
+  "item.bcfantasy.steel_knife": "Steel Knife",
+  "item.bcfantasy.steel_sword": "Steel Sword",
+  "item.bcfantasy.steel_axe": "Steel Axe",
+  "item.bcfantasy.steel_longsword": "Steel Longsword",
+  "item.bcfantasy.steel_battle_axe": "Steel Battleaxe",
+  "item.bcfantasy.steel_pickaxe": "Steel Pickaxe",
+
+  "item.bcfantasy.bronze_knife": "Bronze Knife",
+  "item.bcfantasy.bronze_sword": "Bronze Sword",
+  "item.bcfantasy.bronze_axe": "Bronze Axe",
+  "item.bcfantasy.bronze_longsword": "Bronze Longsword",
+  "item.bcfantasy.bronze_battle_axe": "Bronze Battleaxe",
+  "item.bcfantasy.bronze_pickaxe": "Bronze Pickaxe",
+
+  "item.bcfantasy.mithril_knife": "Mithril Knife",
+  "item.bcfantasy.mithril_sword": "Mithril Sword",
+  "item.bcfantasy.mithril_axe": "Mithril Axe",
+  "item.bcfantasy.mithril_longsword": "Mithril Longsword",
+  "item.bcfantasy.mithril_battle_axe": "Mithril Battleaxe",
+  "item.bcfantasy.mithril_pickaxe": "Mithril Pickaxe",
+
+  "item.bcfantasy.silver_knife": "Silver Knife",
+  "item.bcfantasy.silver_sword": "Silver Sword",
+  "item.bcfantasy.silver_axe": "Silver Axe",
+  "item.bcfantasy.silver_longsword": "Silver Longsword",
+  "item.bcfantasy.silver_battle_axe": "Silver Battleaxe",
+  "item.bcfantasy.silver_pickaxe": "Silver Pickaxe",
+
+  "item.bcfantasy.silk_material": "Silk",
+
+  "item.bcfantasy.lewis_gun": "Lewis Gun"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "bcfantasy:baso_house/start_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "bcfantasy:baso_house",
+        "processors": "minecraft_empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

@@ -16,7 +16,7 @@ apply plugin: 'maven-publish'
 apply plugin: 'org.parchmentmc.librarian.forgegradle'
 
 version = '0.0.1'
-group = 'net.bcf.bcfantasy' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+group = 'net.bcf' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'bcfantasy'
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(8) // Mojang ships Java 8 to end users, so your mod should target Java 8.
@@ -102,7 +102,7 @@ minecraft {
             property 'forge.logging.console.level', 'debug'
 
             // Specify the bcfantasy for data generation, where to output the resulting resource, and where to look for existing resources.
-            args '--mod', 'bcfantasy', '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/')
+            args '--mod', 'bcf', '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/')
 
             mods {
                 examplemod {
@@ -146,11 +146,11 @@ dependencies {
 jar {
     manifest {
         attributes([
-            "Specification-Title": "bcfantasy",
+            "Specification-Title": "BullCap Fantasy",
             "Specification-Vendor": "examplemodsareus",
             "Specification-Version": "1", // We are version 1 of ourselves
-            "Implementation-Title": project.name,
-            "Implementation-Version": "${version}",
+            "Implementation-Title": "BullCap Fantasy",
+            "Implementation-Version": project.version,
             "Implementation-Vendor" :"examplemodsareus"
         ])
     }
